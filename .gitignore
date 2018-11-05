@@ -1,2 +1,5 @@
 # Configuration Files
 WBooks/ConfigurationFiles/*
+
+# Dependencies
+Carthage/*
