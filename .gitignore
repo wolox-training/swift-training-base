@@ -1,5 +1,23 @@
 # Configuration Files
 WBooks/ConfigurationFiles/*
 
-# Dependencies
-Carthage/*
+# osx noise
+.DS_Store
+Thumbs.db
+
+# Carthage
+.carthage_cache.yml
+Carthage/
+
+# Frameworks
+Frameworks/
+
+# Reports
+swiftlint-output/
+slather-output/
+fastlane/test_output/
+
+# Fastlane specific
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
